@@ -1,0 +1,9 @@
+uid,recording_dir,mi,shuffle_mean,shuffle_std,z_score,n_windows
+0,data\synth\species_A\plant_000\session_000,0.0,0.0,0.0,0.0,931
+1,data\synth\species_A\plant_000\session_001,0.0,0.0,0.0,0.0,934
+2,data\synth\species_A\plant_001\session_000,0.0,0.0,0.0,0.0,934
+3,data\synth\species_A\plant_001\session_001,0.0,0.0,0.0,0.0,931
+4,data\synth\species_B\plant_000\session_000,0.0,0.0,0.0,0.0,931
+5,data\synth\species_B\plant_000\session_001,0.0,0.0,0.0,0.0,934
+6,data\synth\species_B\plant_001\session_000,0.0,0.0,0.0,0.0,934
+7,data\synth\species_B\plant_001\session_001,0.0,0.0,0.0,0.0,931

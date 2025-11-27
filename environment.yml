@@ -1,0 +1,42 @@
+name: floravoice
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - matplotlib
+  - plotly
+  - numba
+  - networkx
+  - pip:
+      - torch>=2.2
+      - torchvision
+      - torchaudio
+      - pytorch-lightning
+      - einops
+      - xgboost
+      - shap
+      - captum
+      - tsfresh
+      - antropy
+      - pywavelets
+      - pyts
+      - umap-learn
+      - hdbscan
+      - tigramite
+      - dcor
+      - pyunicorn
+      - pydmd
+      - pysindy
+      - river
+      - ruptures
+      - minepy
+      - dtaidistance
+      - torchcde
+      - torchsde

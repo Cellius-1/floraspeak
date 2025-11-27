@@ -1,0 +1,9 @@
+shard,embeddings,n_windows,d_model
+data\shards_sev_0.75\uid0000.npz,results\ssl_sev_0.75\emb\uid0000_E.npz,934,128
+data\shards_sev_0.75\uid0001.npz,results\ssl_sev_0.75\emb\uid0001_E.npz,934,128
+data\shards_sev_0.75\uid0002.npz,results\ssl_sev_0.75\emb\uid0002_E.npz,934,128
+data\shards_sev_0.75\uid0003.npz,results\ssl_sev_0.75\emb\uid0003_E.npz,934,128
+data\shards_sev_0.75\uid0004.npz,results\ssl_sev_0.75\emb\uid0004_E.npz,934,128
+data\shards_sev_0.75\uid0005.npz,results\ssl_sev_0.75\emb\uid0005_E.npz,934,128
+data\shards_sev_0.75\uid0006.npz,results\ssl_sev_0.75\emb\uid0006_E.npz,934,128
+data\shards_sev_0.75\uid0007.npz,results\ssl_sev_0.75\emb\uid0007_E.npz,934,128

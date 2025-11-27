@@ -1,0 +1,9 @@
+shard,tokens,n
+results\ssl\emb\uid0000_E.npz,results\vq_tokens\uid0000_E_tokens.npy,931
+results\ssl\emb\uid0001_E.npz,results\vq_tokens\uid0001_E_tokens.npy,934
+results\ssl\emb\uid0002_E.npz,results\vq_tokens\uid0002_E_tokens.npy,934
+results\ssl\emb\uid0003_E.npz,results\vq_tokens\uid0003_E_tokens.npy,931
+results\ssl\emb\uid0004_E.npz,results\vq_tokens\uid0004_E_tokens.npy,931
+results\ssl\emb\uid0005_E.npz,results\vq_tokens\uid0005_E_tokens.npy,934
+results\ssl\emb\uid0006_E.npz,results\vq_tokens\uid0006_E_tokens.npy,934
+results\ssl\emb\uid0007_E.npz,results\vq_tokens\uid0007_E_tokens.npy,931

@@ -1,0 +1,9 @@
+shard,embeddings,n_windows,d_model
+data\shards\uid0000.npz,results\ssl\emb\uid0000_E.npz,931,128
+data\shards\uid0001.npz,results\ssl\emb\uid0001_E.npz,934,128
+data\shards\uid0002.npz,results\ssl\emb\uid0002_E.npz,934,128
+data\shards\uid0003.npz,results\ssl\emb\uid0003_E.npz,931,128
+data\shards\uid0004.npz,results\ssl\emb\uid0004_E.npz,931,128
+data\shards\uid0005.npz,results\ssl\emb\uid0005_E.npz,934,128
+data\shards\uid0006.npz,results\ssl\emb\uid0006_E.npz,934,128
+data\shards\uid0007.npz,results\ssl\emb\uid0007_E.npz,931,128

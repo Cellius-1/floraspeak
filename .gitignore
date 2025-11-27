@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+env/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Big data / artifacts
+data/
+datasets/
+logs/
+checkpoints/
+runs/
+outputs/
+
+# Model files / big binaries
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.h5
+*.onnx
+
+# Compressed archives
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# IDE / OS stuff
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
